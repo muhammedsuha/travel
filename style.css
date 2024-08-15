@@ -1,0 +1,68 @@
+ body{
+    background-color: black;
+ margin-left: 25px;
+    font-style: italic;
+    
+ }
+    button{
+        margin-left:800PX;
+    }
+
+h3{
+    color:beige;
+    margin: auto;
+    margin-left: 10px;
+    margin-right: 25px;
+}
+
+button{
+    background-color: red;
+}
+h6{
+    margin-left: 820px;
+}
+.container .btn1{
+    position: absolute;
+    top:20%;
+left: 20%;
+
+background-color: black;
+color: white;
+cursor: pointer;
+}
+
+.container .btn2{
+    position: absolute;
+    top: 20%;
+left: 40%;
+background-color: black;
+color: white;
+cursor: pointer;
+}
+.container .btn3{
+    position: absolute;
+    top: 20%;
+left: 60%;
+background-color: black;
+color: white;
+cursor: pointer;
+}
+.container .btn4{
+    position: absolute;
+    top: 20%;
+left: 80%;
+background-color: black;
+color: white;
+cursor: pointer;
+}
+#btn0{
+    position: absolute;
+    top: 50%;
+}
+
+
+.container3{
+    
+    background-color: black;
+}
+
